@@ -52,9 +52,9 @@ signature is GUID-like
     
 [PDB format has several versions](https://github.com/microsoft/microsoft-pdb/blob/082c5290e5aff028ae84e43affa8be717aa7af73/langapi/include/pdb.h#L104)
 
-| Term  |  interpretation |
+| Term  |  Interpretation |
 |-------|-----------------|
-| TI    | type index       |
+| TI    | type index      |
 | MSF   | Multiple Stream File |
 GSI
 TPI Type info
